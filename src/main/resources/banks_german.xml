@@ -2,7 +2,7 @@
 <banks xmlns="org.as.iban" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <bank blz="_10000000">
    <bic>MARKDEF1100</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -500,7 +500,7 @@
  </bank>
   <bank blz="_13000000">
    <bic>MARKDEF1130</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -662,7 +662,7 @@
  </bank>
   <bank blz="_15000000">
    <bic>MARKDEF1150</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -962,7 +962,7 @@
  </bank>
   <bank blz="_20000000">
    <bic>MARKDEF1200</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -1820,7 +1820,7 @@
  </bank>
   <bank blz="_21000000">
    <bic>MARKDEF1210</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -2522,7 +2522,7 @@
  </bank>
   <bank blz="_23000000">
    <bic>MARKDEF1230</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -2774,7 +2774,7 @@
  </bank>
   <bank blz="_25000000">
    <bic>MARKDEF1250</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -3464,7 +3464,7 @@
  </bank>
   <bank blz="_26000000">
    <bic>MARKDEF1260</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -3650,7 +3650,7 @@
  </bank>
   <bank blz="_26500000">
    <bic>MARKDEF1265</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -4202,7 +4202,7 @@
  </bank>
   <bank blz="_28000000">
    <bic>MARKDEF1280</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -4826,7 +4826,7 @@
  </bank>
   <bank blz="_29000000">
    <bic>MARKDEF1290</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -5114,7 +5114,7 @@
  </bank>
   <bank blz="_30000000">
    <bic>MARKDEF1300</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -6188,7 +6188,7 @@
  </bank>
   <bank blz="_36000000">
    <bic>MARKDEF1360</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -6440,7 +6440,7 @@
  </bank>
   <bank blz="_37000000">
    <bic>MARKDEF1370</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -8270,7 +8270,7 @@
  </bank>
   <bank blz="_43000000">
    <bic>MARKDEF1430</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -8336,7 +8336,7 @@
  </bank>
   <bank blz="_44000000">
    <bic>MARKDEF1440</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -8576,7 +8576,7 @@
  </bank>
   <bank blz="_45000000">
    <bic>MARKDEF1450</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -9206,7 +9206,7 @@
  </bank>
   <bank blz="_48000000">
    <bic>MARKDEF1480</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -9500,7 +9500,7 @@
  </bank>
   <bank blz="_50000000">
    <bic>MARKDEF1500</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -10946,7 +10946,7 @@
  </bank>
   <bank blz="_50400000">
    <bic>MARKDEFFXXX</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank Zentrale</name>
    <checknummer>09</checknummer>
  </bank>
@@ -12116,7 +12116,7 @@
  </bank>
   <bank blz="_51300000">
    <bic>MARKDEF1513</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -13136,7 +13136,7 @@
  </bank>
   <bank blz="_54500000">
    <bic>MARKDEF1545</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -13334,7 +13334,7 @@
  </bank>
   <bank blz="_55000000">
    <bic>MARKDEF1550</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -13742,7 +13742,7 @@
  </bank>
   <bank blz="_57000000">
    <bic>MARKDEF1570</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -14216,7 +14216,7 @@
  </bank>
   <bank blz="_59000000">
    <bic>MARKDEF1590</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -14666,7 +14666,7 @@
  </bank>
   <bank blz="_60000000">
    <bic>MARKDEF1600</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -16244,7 +16244,7 @@
  </bank>
   <bank blz="_63000000">
    <bic>MARKDEF1630</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -16376,7 +16376,7 @@
  </bank>
   <bank blz="_64000000">
    <bic>MARKDEF1640</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -16970,7 +16970,7 @@
  </bank>
   <bank blz="_66000000">
    <bic>MARKDEF1660</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -17816,7 +17816,7 @@
  </bank>
   <bank blz="_68000000">
    <bic>MARKDEF1680</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -18290,7 +18290,7 @@
  </bank>
   <bank blz="_69400000">
    <bic>MARKDEF1694</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -18350,7 +18350,7 @@
  </bank>
   <bank blz="_70000000">
    <bic>MARKDEF1700</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -19628,7 +19628,7 @@
  </bank>
   <bank blz="_72000000">
    <bic>MARKDEF1720</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -20960,7 +20960,7 @@
  </bank>
   <bank blz="_75000000">
    <bic>MARKDEF1750</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -21266,7 +21266,7 @@
  </bank>
   <bank blz="_76000000">
    <bic>MARKDEF1760</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -22034,7 +22034,7 @@
  </bank>
   <bank blz="_77300000">
    <bic>MARKDEF1773</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -22202,7 +22202,7 @@
  </bank>
   <bank blz="_79000000">
    <bic>MARKDEF1790</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -22832,7 +22832,7 @@
  </bank>
   <bank blz="_81000000">
    <bic>MARKDEF1810</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -22970,7 +22970,7 @@
  </bank>
   <bank blz="_82000000">
    <bic>MARKDEF1820</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -23330,7 +23330,7 @@
  </bank>
   <bank blz="_85000000">
    <bic>MARKDEF1850</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -23504,7 +23504,7 @@
  </bank>
   <bank blz="_86000000">
    <bic>MARKDEF1860</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
@@ -23708,7 +23708,7 @@
  </bank>
   <bank blz="_87000000">
    <bic>MARKDEF1870</bic>
-   <rule>004200</rule>
+   <rule>004201</rule>
    <name>Bundesbank</name>
    <checknummer>09</checknummer>
  </bank>
