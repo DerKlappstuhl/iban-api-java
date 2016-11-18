@@ -2090,7 +2090,7 @@ public class IbanGeneratorGermanTest {
 	    e1.printStackTrace();
 	}
     	
-    	assertEquals("DE08100000001234400012", iban.toString());
+    	assertEquals("DE16100000001234400012", iban.toString());
     }
     
     @Test
