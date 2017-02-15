@@ -23820,8 +23820,7 @@
    <name>Deutsche Bank Privat und Geschäftskunden</name>
    <checknummer>63</checknummer>
  </bank>
-  <bank blz="_87080000">
-   <bic>DRESDEFF870</bic>
+  <bank blz="_87080000">   <bic>DRESDEFF870</bic>
    <rule>000503</rule>
    <name>Commerzbank vormals Dresdner Bank</name>
    <checknummer>76</checknummer>
@@ -23831,8 +23830,7 @@
    <rule>000000</rule>
    <name>Volksbank Vogtland</name>
    <checknummer>06</checknummer>
- </bank>
-  <bank blz="_87095899">
+ </bank>  <bank blz="_87095899">
    <bic>GENODEF1EXT</bic>
    <rule>000000</rule>
    <name>Volksbank Vogtland GAA</name>
@@ -23878,6 +23876,6 @@
    <bic>NTSBDEB1XXX</bic>
    <rule>000000</rule>
    <name>Number 26</name>
-   <checknummer>15</checknummer>
+   <checknummer>09</checknummer>
  </bank>
 </banks>
