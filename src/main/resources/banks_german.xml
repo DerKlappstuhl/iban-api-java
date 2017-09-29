@@ -9559,7 +9559,7 @@
    <checknummer>28</checknummer>
  </bank>
   <bank blz="_50020000">
-   <bic>SEZBDEF1XXX</bic>
+   <bic>SEZDDEF1XXX</bic>
    <rule>000000</rule>
    <name>Sberbank Europe Zndl Deutschland</name>
    <checknummer>28</checknummer>
