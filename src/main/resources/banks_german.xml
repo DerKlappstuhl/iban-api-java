@@ -23874,4 +23874,10 @@
    <name>Volksbank Chemnitz</name>
    <checknummer>06</checknummer>
  </bank>
+  <bank blz="_10011001">
+   <bic>NTSBDEB1XXX</bic>
+   <rule>000000</rule>
+   <name>Number 26</name>
+   <checknummer>09</checknummer>
+ </bank>
 </banks>
