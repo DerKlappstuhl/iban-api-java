@@ -3,3 +3,9 @@
 .classpath
 .project
 .travis.yml
+/.gradle/
+/bin/
+/build/
+/gradle/
+/gradlew
+/gradlew.bat
